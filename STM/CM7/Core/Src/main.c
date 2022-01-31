@@ -407,7 +407,7 @@ static void MX_GPIO_Init(void)
 
 //Se define el callback para la interrupcion de los GPIO
 void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin){
-
+//Codigo de prueba
 }
 /* USER CODE END 4 */
 
